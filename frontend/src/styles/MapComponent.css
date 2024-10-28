@@ -1,0 +1,14 @@
+.map-container {
+  margin: 20px auto;
+  max-width: 800px;
+}
+
+.geography {
+  stroke: #ffffff;
+  stroke-width: 0.5;
+}
+
+.geography:hover {
+  cursor: pointer;
+  opacity: 0.8;
+}

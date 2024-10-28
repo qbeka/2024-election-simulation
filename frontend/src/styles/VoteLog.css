@@ -1,0 +1,19 @@
+.vote-log {
+    width: 80%;
+    margin: 20px auto;
+    text-align: left;
+  }
+  
+  .vote-log h2 {
+    text-align: center;
+  }
+  
+  .vote-log ul {
+    list-style-type: none;
+    padding: 0;
+  }
+  
+  .vote-log li {
+    margin: 5px 0;
+  }
+  
